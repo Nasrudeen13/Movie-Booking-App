@@ -11,7 +11,7 @@ const { default: mongoose } = require("mongoose");
 const cors = require("cors")
 
 app.use(bodyParser.json());
-const allowedOrigins = ['http://localhost:5173','http://localhost:5174','movie-booking-app-admin-irzqwx0hs-nasrudeen-s-projects.vercel.app']; // Add more origins as needed
+const allowedOrigins = ['http://localhost:5173','http://localhost:5174',]; // Add more origins as needed
 app.use(
     cors({
         origin: function (origin, callback) {
