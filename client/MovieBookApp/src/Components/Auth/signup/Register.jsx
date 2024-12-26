@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import logo from '/Users/nasrudeen/Desktop/projects/MOVIE BOOKING APP/Images/logo.png'
+import logo from '../signup/logo.png'
 import {Link} from 'react-router-dom'
 import {toast} from 'react-toastify'
 import 'react-toastify/dist/ReactToastify.css'
