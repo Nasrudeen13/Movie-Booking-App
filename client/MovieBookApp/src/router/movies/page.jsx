@@ -46,22 +46,6 @@ const Page = () => {
 
 
 
-        // {
-        //     "_id": "65101a2acc5b257e6f2816a5",
-        //     "title": "Jawan",
-        //     "description": "A high-octane action thriller that outlines the emotional journey of a man who is set to rectify the wrongs in society.",
-        //     "portraitImgUrl": "http://res.cloudinary.com/dy4laycuf/image/upload/v1695554088/wbfwtq1nksdazxdrelxa.webp",
-        //     "landscapeImgUrl": "http://res.cloudinary.com/dy4laycuf/image/upload/v1695554090/s3iwjeae4nev6ug3r0et.png",
-        //     "rating": 8,
-        //     "genre": [
-        //         "Action",
-        //         "Thriller"
-        //     ],
-        //     "duration": 130,
-        //     "cast": [],
-        //     "crew": [],
-        //     "__v": 0
-        // }
     }
    
 
