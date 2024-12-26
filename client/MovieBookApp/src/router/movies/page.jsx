@@ -15,7 +15,7 @@ import { Link } from "react-router-dom";
 // import required modules
 import { FreeMode, Pagination } from "swiper/modules";
 
-const page = () => {
+const Page = () => {
   const location = useLocation();
   const pathname = location.pathname;
 
@@ -243,4 +243,4 @@ const page = () => {
         </>
     )
 }
-export default page;
+export default Page;
