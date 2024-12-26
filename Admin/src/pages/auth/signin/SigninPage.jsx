@@ -1,6 +1,5 @@
 
 import React, { useState } from 'react';
-import logo from '/Users/nasrudeen/Desktop/projects/MOVIE BOOKING APP/Images/logo.png'
 import '../auth.css';
 import { ToastContainer, toast } from 'react-toastify';
 import {useNavigate} from 'react-router-dom'
